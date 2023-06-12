@@ -1,0 +1,3 @@
+[submodule "my-gpg-keys"]
+	path = my-pgp-keys
+	url = git@github.com:MidnightRocket/pgp.git
